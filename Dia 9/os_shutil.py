@@ -8,5 +8,3 @@ import send2trash
 
 # enviar archivo a la papelera
 #send2trash.send2trash('curso.txt')
-
-print(os.walk())
